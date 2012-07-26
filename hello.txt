@@ -1,0 +1,5 @@
+#!/bin/sh
+#This is a readme file
+#Still trying to figure how to update my heroku distro
+#
+#
